@@ -1,0 +1,22 @@
+{
+  "name": "jira-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shennhuang/jira-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shennhuang/jira-extension/issues"
+  },
+  "homepage": "https://github.com/shennhuang/jira-extension#readme",
+  "dependencies": {
+    "vue": "^3.2.26"
+  }
+}
